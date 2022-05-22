@@ -32,7 +32,7 @@
 // }
 
 //task 4
-const num = Math.round(Math.random() * (5 - 1)) + 1;
+// const num = Math.round(Math.random() * (5 - 1)) + 1;
 // if (num % 2 === 0) {
 //   console.log("Це число парне");
 // } else {
